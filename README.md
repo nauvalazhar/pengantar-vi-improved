@@ -2,15 +2,24 @@
 
 Pengantar Vi iMproved adalah buku yang ditujukan bagi mereka yang ingin mempelajari Vim sebagai pilihan alternatif editor teks. Dengan mempelajari Vim, kita akan dapat menyunting teks dengan lebih cepat dan efisien, dan memanfaatkan kekuatan editor tersebut untuk meningkatkan produktivitas.
 
+> Kita perlu membiasakan mencoba alternatif lain untuk melihat potensi pengalaman yang lebih baik. Bukan menutup diri dengan berlagak konservatif.
+
 ## Unduh
 
 [Pengantar Vi iMproved.pdf](https://github.com/nauvalazhar/pengantar-vi-improved/raw/main/Pengantar%20Vi%20iMproved.pdf)
+
+## Cover
+
+Desain *cover* resmi yang digunakan pada buku ini:
+
+| <img src="./cover-depan.png" width="200" /> | <img src="./cover-belakang.png" width="200" /> |
+|---|---|
 
 ## Informasi Buku
 
 Buku ini diterbitkan secara independen oleh Muhamad Nauval Azhar dengan rincian sebagai berikut:
 
-|  Nama |  - |
+|  Properti |  Nilai |
 |---|---|
 | Ukuran | **B5** (17,6 x 25,01 cm) |
 | Berat | - |
